@@ -17,4 +17,11 @@ issues. So, contributions are always welcome :)))
 5. Checkout.
 6. View orders history of sellers/customers.
 7. Update customer/product information.
-`
+
+What things you need to install
+
+```
+You need Tomcat server 8 or above installed.
+Locally installed MySQL or a MySQL server.
+Compatible IDE, Eclipse or Apache NetBeans recommended for this project.
+```
